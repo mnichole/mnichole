@@ -2,7 +2,7 @@
  
         🚀About me
   
-Karibu,I mean welcome to my GitHUB! I'm currently a mechatronics student with deep interest in robotics-especially humanoid robots,IoT systems,automation and machine learning.Besides tinkering with circuits and motors, I'm also excited diving into web development to build intuitive interfaces for my projects hence bridging the gap between robotics and web technologies .I enjoy turning ideas into life.
+Karibu,I mean welcome to my GitHUB! I'm currently a mechatronics engineer student with deep interest in robotics-especially humanoid robots,IoT systems,automation and machine learning.Besides tinkering with circuits and motors, I'm also excited diving into web development to build intuitive interfaces for my projects hence bridging the gap between robotics and web technologies .I enjoy turning ideas into life.
 
        🎯Learning and goals
        
