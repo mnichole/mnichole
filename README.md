@@ -22,7 +22,7 @@ The front end skills will be applied in ;
 5) Data visualisation and analytics
     
         🔥THE END GOAL 
-To create a smooth and interactive bridge between humans and mechatronic systems through modern tech, making automation and robotics more intuitive, efficient and remotely accessible
+To create a smooth and interactive bridge between humans and mechatronic systems through modern web tech, making automation and robotics more intuitive, efficient and remotely accessible
 
           🛠️Technologies and languages studying
   
